@@ -1,0 +1,12 @@
+.adminuserlistwrapper {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem;
+    margin: 2rem 0px;
+    background-color: rgb(246, 246, 246);
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(193, 183, 183);
+}
